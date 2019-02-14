@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\users\федор\desktop\present ver\src\main.cpp(90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\федор\desktop\present ver\src\main.cpp(175): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\федор\desktop\present ver\src\main.cpp(186): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+c:\users\федор\desktop\present ver\src\main.cpp(186): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\федор\desktop\present ver\src\main.cpp(213): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+c:\users\федор\desktop\present ver\src\main.cpp(213): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\федор\desktop\present ver\src\main.cpp(224): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\федор\desktop\present ver\src\main.cpp(241): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\федор\desktop\present ver\src\main.cpp(243): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\федор\desktop\present ver\src\main.cpp(261): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\федор\desktop\present ver\src\main.cpp(263): warning C4018: <: несоответствие типов со знаком и без знака
+  present ver.vcxproj -> C:\Users\Федор\Desktop\present ver\bin\present ver.exe
